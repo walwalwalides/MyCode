@@ -1,0 +1,8 @@
+procedure CreateForm;
+begin
+  Showmessage('Hallo Walid');
+  for i:=0 to 9 do
+begin
+ hallo; 
+end; 
+end;
